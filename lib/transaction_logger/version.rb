@@ -1,5 +1,3 @@
-module Transaction
-  module Logger
-    VERSION = "0.1.0"
-  end
+module TransactionLogger
+    VERSION = '0.1.0'.freeze
 end
