@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'transaction_logger/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'transaction-logger'
+  spec.name          = 'transaction_logger'
   spec.version       = TransactionLogger::VERSION
   spec.authors       = ['whonz']
   spec.email         = ['whonzmail@gmail.com']
